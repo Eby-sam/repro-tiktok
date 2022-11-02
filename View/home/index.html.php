@@ -1,11 +1,7 @@
 <?php
 
-use repro\Controller\AbstractController;
-use repro\Controller\UserController;
-
-
-
-
+    use repro\Controller\AbstractController;
+    use repro\Controller\UserController;
 ?>
 
 <div id="homeBase">
