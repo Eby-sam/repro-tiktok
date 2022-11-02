@@ -18,6 +18,10 @@ use repro\Controller\AbstractController;
             base
         </p>
 
+        <div class="container">
+            <?= $html ?>
+        </div>
+
     </div>
 
 </body>
